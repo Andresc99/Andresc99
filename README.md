@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un analista junior con gran interés en la estadística, visualización de datos y desarrollo de proyectos que generen impacto social. Me encanta aprender, experimentar y enfrentar nuevos retos relacionados con la ciencia de datos.
+Soy un analista junior con gran interés en la estadística, visualización de datos y desarrollo de proyectos que generen impacto a empresas. Me encanta aprender, experimentar y enfrentar nuevos retos relacionados con la ciencia de datos.
 
 ---
 

@@ -129,7 +129,6 @@ Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y 
 
 - 🎯 Me encanta encontrar patrones donde otros ven solo números
 - 📚 Leo blogs de análisis de datos en mi tiempo libre
-- 🏃‍♂️ Corro mientras escucho podcasts de data science
 - 🌍 Mi meta es trabajar con datos que generen impacto social positivo
 
 ---

@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Andrés! 👋</h1>
 
 <p align="center">
-  📊 Entusiasta de los datos · 💻 Explorador de Python y Jupyter · 🌱 Aprendiz constante
+  📊 Entusiasta de los datos · 🌱 Aprendiz constante
 </p>
 
 ---

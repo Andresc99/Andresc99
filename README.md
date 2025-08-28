@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**📊 Data Analyst | 🚀 Python Enthusiast | 📈 Business Intelligence**
+**📊 Data Analyst | 📈 Business Intelligence**
 
 *Transformo datos en insights que impulsan decisiones estratégicas*
 

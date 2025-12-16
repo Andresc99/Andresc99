@@ -106,11 +106,9 @@ Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y 
 
 ## 📚 Actualmente Aprendiendo
 
-**🎯 Roadmap de Aprendizaje:**
-
-- **SQL Avanzado**: CTEs, Window Functions, Query Optimization
+- **SQL Avanzado**: Query Optimization
 - **Business Intelligence**: DAX avanzado, Modelado dimensional, KPIs estratégicos  
-- **Estadística**: A/B Testing, Inferencia estadística, Machine Learning básico
+- **Estadística**: Inferencia estadística, Machine Learning básico
 - **Automatización**: Python Scripts, Reportes automatizados, ETL Pipelines
 
 ---

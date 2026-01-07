@@ -42,26 +42,6 @@ Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andresc99&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresc99&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF)
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andresc99&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF)
-
-</div>
-
----
-
 ## Proyectos Destacados
 
 ### [Dashboard de Ventas en Supermercado - Excel](https://github.com/Andresc99/Ventas-en-Supermercado-Dashboard-Excel)

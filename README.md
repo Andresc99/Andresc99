@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**📊 Data Analyst | 📈 Business Intelligence**
+**Data Analyst | Business Intelligence**
 
 *Transformo datos en insights que impulsan decisiones estratégicas*
 
@@ -14,19 +14,11 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 > *"Los datos no son solo números, son historias esperando ser contadas"*
 
 Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y crear visualizaciones que generen impacto real en las organizaciones. Mi experiencia se centra en el análisis estadístico, la limpieza de datos y el desarrollo de dashboards interactivos.
-
-### 🎯 Lo que me motiva:
-- 📊 Convertir datos complejos en insights accionables
-- 🔍 Resolver problemas de negocio mediante análisis estadístico
-- 📈 Crear visualizaciones que comuniquen efectivamente
-- 🌱 Aprender continuamente nuevas tecnologías y metodologías
-
----
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +44,7 @@ Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -70,41 +62,51 @@ Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y 
 
 ---
 
-## 🏆 Proyectos Destacados
+## Proyectos Destacados
 
-### 🧠 [Análisis de Adicción a Redes Sociales](https://github.com/Andresc99/Adiccion-a-redes-sociales-en-estudiantes)
+### [Dashboard de Ventas en Supermercado - Excel](https://github.com/Andresc99/Ventas-en-Supermercado-Dashboard-Excel)
+**Herramienta interactiva para el seguimiento de KPIs comerciales y análisis de ventas**
+
+-  **Enfoque**: Business Intelligence, Reporte ejecutivo, Toma de decisiones
+-  **Stack**: Excel Avanzado (Tablas Dinámicas, Segmentación de Datos, Gráficos Dinámicos)
+-  **Resultados**: Monitoreo ágil de ventas por region, categoría de producto y tendencias temporales
+
+![Stars](https://img.shields.io/github/stars/Andresc99/Ventas-en-Supermercado-Dashboard-Excel?style=flat&color=yellow)
+![Last Commit](https://img.shields.io/github/last-commit/Andresc99/Ventas-en-Supermercado-Dashboard-Excel?style=flat&color=brightgreen)
+
+### [Análisis de Adicción a Redes Sociales](https://github.com/Andresc99/Adiccion-a-redes-sociales-en-estudiantes)
 **Investigación estadística sobre el impacto de redes sociales en estudiantes**
 
-- 🔍 **Técnicas**: Análisis exploratorio, pruebas estadísticas, visualización
-- 🛠️ **Stack**: Python, Pandas, Matplotlib, Seaborn
-- 📊 **Resultados**: Identificación de patrones de uso y correlaciones significativas
+-  **Técnicas**: Análisis exploratorio, pruebas estadísticas, visualización
+-  **Stack**: Python, Pandas, Matplotlib, Seaborn
+-  **Resultados**: Identificación de patrones de uso y correlaciones significativas
 
 ![Stars](https://img.shields.io/github/stars/Andresc99/Adiccion-a-redes-sociales-en-estudiantes?style=flat&color=yellow)
 ![Last Commit](https://img.shields.io/github/last-commit/Andresc99/Adiccion-a-redes-sociales-en-estudiantes?style=flat&color=brightgreen)
 
-### 🦠 [COVID-19 Colombia Analytics](https://github.com/Andresc99/An-lisis-descriptivo-de-fallecidos-por-COVID-19-en-Colombia)
+### [COVID-19 Colombia Analytics](https://github.com/Andresc99/An-lisis-descriptivo-de-fallecidos-por-COVID-19-en-Colombia)
 **Dashboard interactivo para análisis de mortalidad por COVID-19**
 
-- 📈 **Enfoque**: EDA, análisis temporal, segmentación demográfica
-- 🗺️ **Datos**: Información pública del gobierno colombiano
-- 📊 **Visualizaciones**: Gráficos temporales, mapas de calor, distribuciones
+-  **Enfoque**: EDA, análisis temporal, segmentación demográfica
+-  **Datos**: Información pública del gobierno colombiano
+-  **Visualizaciones**: Gráficos temporales, mapas de calor, distribuciones
 
 ![Stars](https://img.shields.io/github/stars/Andresc99/An-lisis-descriptivo-de-fallecidos-por-COVID-19-en-Colombia?style=flat&color=yellow)
 ![Last Commit](https://img.shields.io/github/last-commit/Andresc99/An-lisis-descriptivo-de-fallecidos-por-COVID-19-en-Colombia?style=flat&color=brightgreen)
 
-### 📊 [Proyecto Talento TECH](https://github.com/Andresc99/Proyecto_de_Analisis_TalentoTECH)
+### [Proyecto Talento TECH](https://github.com/Andresc99/Proyecto_de_Analisis_TalentoTECH)
 **Reto completo de análisis de datos empresariales**
 
-- 🧹 **Pipeline**: Limpieza, transformación, análisis, reporte
-- 📋 **Entregables**: Jupyter Notebooks, visualizaciones, presentación ejecutiva
-- 🎯 **Objetivo**: Generar recomendaciones basadas en datos para toma de decisiones
+-  **Pipeline**: Limpieza, transformación, análisis, reporte
+-  **Entregables**: Jupyter Notebooks, visualizaciones, presentación ejecutiva
+-  **Objetivo**: Generar recomendaciones basadas en datos para toma de decisiones
 
 ![Stars](https://img.shields.io/github/stars/Andresc99/Proyecto_de_Analisis_TalentoTECH?style=flat&color=yellow)
 ![Last Commit](https://img.shields.io/github/last-commit/Andresc99/Proyecto_de_Analisis_TalentoTECH?style=flat&color=brightgreen)
 
 ---
 
-## 📚 Actualmente Aprendiendo
+## Actualmente Aprendiendo
 
 - **SQL Avanzado**: Query Optimization
 - **Business Intelligence**: DAX avanzado, Modelado dimensional, KPIs estratégicos  
@@ -113,7 +115,7 @@ Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y 
 
 ---
 
-## 📈 Actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
   
@@ -123,9 +125,9 @@ Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y 
 
 <div align="center">
 
-### 💭 *"En un mundo lleno de datos, mi pasión es encontrar las historias que realmente importan"*
+### *"En un mundo lleno de datos, mi pasión es encontrar las historias que realmente importan"*
 
-**📍 Barranquilla, Colombia** | **💼 Abierto a oportunidades**
+**Barranquilla, Colombia** | **Abierto a oportunidades**
 
 ---
 
@@ -133,6 +135,6 @@ Soy un **analista de datos junior** apasionado por descubrir patrones ocultos y 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Andresc99&style=for-the-badge&color=F85D7F)
 
-**¡Gracias por visitar mi perfil! 🚀 Conectemos y creemos algo increíble juntos** 
+**¡Gracias por visitar mi perfil! Conectemos y creemos algo increíble juntos** 
 
 </div>

@@ -82,7 +82,7 @@ ORDER BY prioridad;
 
 ## Proyectos Destacados
 
-### [Análisis de Churn de Clientes Bancarios](https://github.com/Andresc99/Churn-Clientes-Bancarios)
+### [Análisis de Churn de Clientes Bancarios](https://github.com/Andresc99/Churn-de-Clientes-Bancarios---PowerBI)
 **Análisis predictivo y segmentación de clientes para estrategias de retención bancaria**
 
 **Contexto de Negocio:** Análisis de patrones de abandono de clientes en el sector bancario para identificar segmentos de alto riesgo y desarrollar estrategias de retención basadas en datos.

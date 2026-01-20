@@ -113,7 +113,6 @@ analista = AnalistaDeDatos()
 **Implementación Técnica:**
 - **Plataforma:** Excel Avanzado con Tablas Dinámicas, Segmentación Dinámica y Gráficos Interactivos
 - **Transformación de Datos:** Power Query para actualización y limpieza automatizada de datos
-- **Motor de Métricas:** Fórmulas DAX personalizadas para cálculo de KPIs y benchmarking
 
 **Capacidades del Dashboard:**
 - Análisis multidimensional: desempeño regional, tendencias por categoría de producto, patrones temporales
@@ -143,7 +142,7 @@ analista = AnalistaDeDatos()
 - Correlaciones estadísticamente significativas entre tiempo de pantalla y métricas de desempeño académico
 - Modelo de segmentación de usuarios clasificando niveles de dependencia a través de múltiples dimensiones
 
-**Contribución Académica:** Los hallazgos proporcionan una base empírica para comprender los impactos del comportamiento digital en resultados educativos.
+**Contribución Académica:** Los hallazgos proporcionan una base empírica para comprender los impactos del comportamiento digital en contextos educativos.
 
 ![Stars](https://img.shields.io/github/stars/Andresc99/Adiccion-a-redes-sociales-en-estudiantes?style=flat&color=yellow)
 ![Last Commit](https://img.shields.io/github/last-commit/Andresc99/Adiccion-a-redes-sociales-en-estudiantes?style=flat&color=brightgreen)

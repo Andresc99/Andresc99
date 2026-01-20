@@ -4,7 +4,7 @@
 
 ### Analista de Datos Jr | Business Intelligence
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Analítica+de+Datos;Business+Intelligence;Excel+%7C+SQL+%7C+Power+BI;Transformando+Datos+en+Insights+Estratégicos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Analítica+de+Datos;Business+Intelligence;Excel+%7C+SQL+%7C+Power+BI;Transformando+Datos+en+Insights+Estratégicos" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrescc99/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrescf168@gmail.com)

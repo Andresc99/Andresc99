@@ -82,7 +82,7 @@ ORDER BY prioridad;
 
 ## Proyectos Destacados
 
-### [Análisis de Churn de Clientes Bancarios](https://github.com/Andresc99/Churn-de-Clientes-Bancarios---PowerBI)
+### [Análisis de Churn de Clientes Bancarios - Con PowerBI](https://github.com/Andresc99/Churn-de-Clientes-Bancarios---PowerBI)
 **Análisis predictivo y segmentación de clientes para estrategias de retención bancaria**
 
 **Contexto de Negocio:** Análisis de patrones de abandono de clientes en el sector bancario para identificar segmentos de alto riesgo y desarrollar estrategias de retención basadas en datos.
@@ -108,7 +108,7 @@ ORDER BY prioridad;
 
 ---
 
-### [Dashboard de Análisis de Ventas en Retail](https://github.com/Andresc99/Ventas-en-Supermercado-Dashboard-Excel)
+### [Dashboard de Análisis de Ventas en Retail con Excel](https://github.com/Andresc99/Ventas-en-Supermercado-Dashboard-Excel)
 **Sistema de seguimiento de KPIs ejecutivos para monitoreo de desempeño en retail**
 
 **Contexto de Negocio:** Desarrollo de una solución integral de monitoreo de ventas que permite análisis en tiempo real del desempeño comercial a través de múltiples dimensiones.

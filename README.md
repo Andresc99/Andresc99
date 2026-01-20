@@ -103,8 +103,8 @@ ORDER BY prioridad;
 - Dashboard interactivo permitiendo análisis drill-down desde tendencias macro hasta segmentos individuales de clientes
 - Recomendaciones estratégicas para campañas de retención dirigidas basadas en perfiles de alto riesgo identificados
 
-![Stars](https://img.shields.io/github/stars/Andresc99/Churn-Clientes-Bancarios?style=flat&color=yellow)
-![Last Commit](https://img.shields.io/github/last-commit/Andresc99/Churn-Clientes-Bancarios?style=flat&color=brightgreen)
+![Stars](https://img.shields.io/github/stars/Andresc99/Churn-de-Clientes-Bancarios---PowerBI?style=flat&color=yellow)
+![Last Commit](https://img.shields.io/github/last-commit/Andresc99/Churn-de-Clientes-Bancarios---PowerBI?style=flat&color=brightgreen)
 
 ---
 

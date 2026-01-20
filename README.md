@@ -16,33 +16,36 @@
 
 ## Sobre Mí
 
-```python
-class AnalistaDeDatos:
-    def __init__(self):
-        self.nombre = "Andrés Castaño"
-        self.rol = "Analista de Datos Junior"
-        self.ubicacion = "Barranquilla, Colombia"
-        self.mision = "Transformar datos complejos en insights accionables para el negocio"
-        
-    def habilidades_tecnicas(self):
-        return {
-            'programacion': ['Python', 'SQL'],
-            'analisis_datos': ['Pandas', 'NumPy', 'Análisis Estadístico'],
-            'visualizacion': ['Power BI', 'Matplotlib', 'Seaborn', 'Plotly'],
-            'bases_datos': ['MySQL', 'PostgreSQL'],
-            'herramientas': ['Excel Avanzado', 'Jupyter Notebooks', 'Git'],
-            'metodologias': ['ETL', 'EDA', 'Modelado de Datos', 'Desarrollo de KPIs']
-        }
-    
-    def ruta_aprendizaje(self):
-        return [
-            "Optimización Avanzada de Consultas SQL",
-            "DAX y Modelado Dimensional",
-            "Inferencia Estadística y Machine Learning",
-            "Desarrollo de Pipelines ETL Automatizados"
-        ]
+```SQL
+-- Perfil Profesional
+SELECT 
+    'Andrés Castaño' AS nombre,
+    'Analista de Datos Junior' AS rol,
+    'Barranquilla, Colombia' AS ubicacion,
+    'Transformar datos complejos en insights accionables' AS mision;
 
-analista = AnalistaDeDatos()
+-- Stack Técnico
+CREATE TABLE habilidades (
+    categoria VARCHAR(50),
+    tecnologia VARCHAR(50)
+);
+
+INSERT INTO habilidades VALUES
+    ('Programación', 'Python'),
+    ('Programación', 'SQL'),
+    ('Análisis', 'Pandas'),
+    ('Análisis', 'NumPy'),
+    ('Visualización', 'Power BI'),
+    ('Visualización', 'Matplotlib'),
+    ('Bases de Datos', 'MySQL'),
+    ('Bases de Datos', 'PostgreSQL'),
+    ('Metodologías', 'ETL'),
+    ('Metodologías', 'EDA');
+
+-- Ruta de Aprendizaje Actual
+SELECT objetivo FROM desarrollo_profesional
+WHERE estado = 'En Progreso'
+ORDER BY prioridad;
 ```
 
 **Enfoque Profesional:** Aplicación de metodologías basadas en datos para resolver problemas de negocio a través de análisis exploratorio, modelado estadístico y visualizaciones interactivas. Especializado en transformar conjuntos de datos sin procesar en insights estratégicos que impulsan procesos de toma de decisiones.
@@ -130,11 +133,11 @@ analista = AnalistaDeDatos()
 ### [Adicción a Redes Sociales en Estudiantes: Análisis Estadístico](https://github.com/Andresc99/Adiccion-a-redes-sociales-en-estudiantes)
 **Investigación estadística rigurosa sobre patrones de uso de redes sociales**
 
-**Objetivo de Investigación:** Investigar correlaciones entre el consumo de redes sociales y resultados conductuales en poblaciones estudiantiles mediante análisis estadístico riguroso.
+**Objetivo de Investigación:** Investigar correlaciones entre el consumo de redes sociales y resultados conductuales en poblaciones estudiantiles mediante análisis estadístico.
 
 **Metodología:**
 - **Análisis Exploratorio de Datos:** Perfilamiento comprensivo de patrones de uso e indicadores conductuales
-- **Pruebas Estadísticas:** Análisis de correlación, pruebas de distribución, validación de hipótesis
+- **Pruebas Estadísticas:** Análisis de correlación, validación de hipótesis
 - **Suite de Visualización:** Mapas de calor, gráficos de distribución, análisis de tendencias temporales
 
 **Resultados de Investigación:**
@@ -225,11 +228,6 @@ Competencias Principales:
     - Las visualizaciones deben contar historias convincentes
     - Toma de decisiones basada en evidencia
     
-  Conocimiento de Industria:
-    - Analítica en Retail
-    - Banca y Servicios Financieros
-    - Análisis de Datos en Salud
-    - Investigación Educativa
 ```
 
 ---

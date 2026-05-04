@@ -30,7 +30,7 @@ perfil = {
     "ubicacion": "Barranquilla, Colombia 🇨🇴",
     "stack":     ["Python", "SQL", "Power BI", "Excel"],
     "enfoque":   "Datos → Insights → Decisiones",
-    "estado":    "Abierto a oportunidades 🟢"
+    "estado":    "Abierto a oportunidades"
 }
 ```
 

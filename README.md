@@ -111,16 +111,15 @@ perfil = {
 
 ---
 
-### 🦠 [Mortalidad por COVID-19 en Colombia](https://github.com/Andresc99/An-lisis-descriptivo-de-fallecidos-por-COVID-19-en-Colombia)
+### 📚 [Dashboard de reporte de evaluaciones (Consultoria)](https://github.com/Andresc99/Dashboard-de-reporte-de-evaluaci-n-Consultor-a-)
+> Dashboard para la visualizacion y toma rapida de acciones sobre el rendimiento de los estudiantes en una Universidad de la ciudad de barranquilla.
 
-> Dashboard epidemiológico sobre datos abiertos del Ministerio de Salud de Colombia.
+- Visualizacion de metricas claves 
+- Segmentación por programa academico y capitulo
+- Insights para toma de decisiones efectivas para lograr la acreditacion en programas academicos
 
-- Análisis de olas pandémicas: timing, magnitud y distribución geográfica
-- Segmentación demográfica: edad, género, comorbilidades, región
-- Insights para toma de decisiones en política de salud pública
-
-![Stars](https://img.shields.io/github/stars/Andresc99/An-lisis-descriptivo-de-fallecidos-por-COVID-19-en-Colombia?style=flat-square&color=F2C811)
-![Last Commit](https://img.shields.io/github/last-commit/Andresc99/An-lisis-descriptivo-de-fallecidos-por-COVID-19-en-Colombia?style=flat-square&color=2563eb)
+![Stars](https://img.shields.io/github/stars/Andresc99/Dashboard-de-reporte-de-evaluaci-n-Consultor-a-?style=flat-square&color=F2C811)
+![Last Commit](https://img.shields.io/github/last-commit/Dashboard-de-reporte-de-evaluaci-n-Consultor-a-?style=flat-square&color=2563eb)
 
 ---
 

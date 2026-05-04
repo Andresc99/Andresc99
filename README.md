@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=&fontSize=0" />
-
 # Andrés Cordero
 
 **`Data Analyst · Business Intelligence`**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=2563EB&center=true&vCenter=true&width=480&lines=Transformando+datos+en+decisiones;SQL+·+Python+·+Power+BI;Análisis+exploratorio+%26+storytelling;Barranquilla%2C+Colombia+🇨🇴" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1200&color=2563EB&center=true&vCenter=true&width=480&lines=Transformando+datos+en+decisiones;SQL+%7C+Python+%7C+Power+BI;Analisis+exploratorio+%26+storytelling;Barranquilla%2C+Colombia" alt="Typing SVG" />
 
 <br/>
 
@@ -153,6 +151,14 @@ perfil = {
 
 **📬 ¿Hablamos?**
 
+[andrescf168@gmail.com](mailto:andrescf168@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andrescc99/) · [GitHub](https://github.com/Andresc99)
+
+<br/>
+
+*"Los mejores insights viven en los datos que nadie ha mirado con suficiente atención."*
+
+
+</div>
 [andrescf168@gmail.com](mailto:andrescf168@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andrescc99/) · [GitHub](https://github.com/Andresc99)
 
 <br/>

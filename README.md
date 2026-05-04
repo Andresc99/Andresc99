@@ -30,7 +30,7 @@ perfil = {
     "ubicacion": "Barranquilla, Colombia 🇨🇴",
     "stack":     ["Python", "SQL", "Power BI", "Excel"],
     "enfoque":   "Datos → Insights → Decisiones",
-    "estado":    "Abierto a oportunidades"
+    "estado":    "Abierto a oportunidades 🟢"
 }
 ```
 
@@ -128,9 +128,9 @@ perfil = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andresc99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Andresc99&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=2563eb&fire=F2C811&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/Andresc99)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresc99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresc99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&cache_seconds=1800)](https://github.com/Andresc99)
 
 </div>
 
@@ -157,14 +157,5 @@ perfil = {
 
 *"Los mejores insights viven en los datos que nadie ha mirado con suficiente atención."*
 
-
-</div>
-[andrescf168@gmail.com](mailto:andrescf168@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andrescc99/) · [GitHub](https://github.com/Andresc99)
-
-<br/>
-
-*"Los mejores insights viven en los datos que nadie ha mirado con suficiente atención."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=80&section=footer" />
 
 </div>
